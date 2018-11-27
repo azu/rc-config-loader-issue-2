@@ -1,0 +1,1 @@
+const rcfile = require("rc-config-loader");
